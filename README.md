@@ -2,13 +2,13 @@
 
 ### Hi there 👋
 
-I'm a [Your Profession/Title] passionate about [Your Interests/Expertise]. Welcome to my GitHub profile!
+I'm a Computer Science Student passionate about Software Engineering and Development. Welcome to my GitHub profile!
 
 🔭 I’m currently working on Django.
 
 🌱 I’m currently learning Javascript, REST API.
 
-💬 Ask me about Computer Science, Web Dev, DSA, and Software Engineering.
+💬 Ask me about Computer Science, Machine learning, Web Dev, DSA, and Software Engineering.
 
 📫 How to reach me: sethrahul4u@gmail.com.
 
@@ -21,8 +21,8 @@ I'm a [Your Profession/Title] passionate about [Your Interests/Expertise]. Welco
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSeth08&layout=compact)
 
 👨‍💻 **My favorite projects:**
-- [Project 1](link)
-- [Project 2](link)
+- [Heart Vision](https://github.com/RahulSeth08/Heart-Vision)
+- [Portfolio](https://rahulseth.pythonanywhere.com)
 - [Project 3](link)
 
 🔗 **Connect with me:**
