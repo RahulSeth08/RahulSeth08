@@ -20,7 +20,7 @@ I'm a Computer Science Student passionate about Software Engineering and Develop
 🌟 **Top Languages:**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSeth08&layout=compact)
 
-👨‍💻 **My favorite projects:**
+👨‍💻 **My Projects:**
 - [Gentle Paws](https://github.com/RahulSeth08/Gentle-Paws)
 - [Heart Vision](https://github.com/RahulSeth08/Heart-Vision)
 - [Portfolio](https://rahulseth.pythonanywhere.com)
