@@ -8,14 +8,9 @@ I'm a Computer Science Student passionate about Software Engineering and Develop
 
 🌱 I’m currently learning Javascript, REST API.
 
-💬 Ask me about Computer Science, Machine learning, Web Dev, DSA, and Software Engineering.
+💬 Ask about Computer Science, Machine learning, Web Dev, DSA, and Software Engineering.
 
 📫 How to reach me: sethrahul4u@gmail.com.
-
-⚡ Fun fact: [Interesting fact about yourself or your work].
-
-📊 **My GitHub Stats:**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulSeth08&show_icons=true)
 
 🌟 **Top Languages:**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSeth08&layout=compact)
