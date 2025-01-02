@@ -13,7 +13,9 @@ I'm a Computer Science Student passionate about Software Engineering and Develop
 📫 How to reach me: sethrahul4u@gmail.com.
 
 🌟 **Top Languages:**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSeth08&layout=compact)
+![Top Langs]
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSeth08&layout=compact)
 
 👨‍💻 **My Projects:**
 - [Gentle Paws](https://github.com/RahulSeth08/Gentle-Paws)
